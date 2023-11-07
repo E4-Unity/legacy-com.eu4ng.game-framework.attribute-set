@@ -1,0 +1,8 @@
+{
+  "name": "com.eu4ng.game-framework.attribute-set",
+  "displayName": "GF Attribute Set",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "author": "Eu4ng",
+  "description": "Expandable Attribute Set with Damage Framework"
+}
